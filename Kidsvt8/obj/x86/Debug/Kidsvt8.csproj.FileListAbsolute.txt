@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2010\Projects\Kidsvt8\Kidsvt8\bin\Debug\Kidsvt8.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Kidsvt8\Kidsvt8\bin\Debug\Kidsvt8.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Kidsvt8\Kidsvt8\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\Kidsvt8\Kidsvt8\obj\x86\Debug\Kidsvt8.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Kidsvt8\Kidsvt8\obj\x86\Debug\Kidsvt8.pdb
+H:\Предметы\КиДСВТ\8\Kidsvt8\Kidsvt8\obj\x86\Debug\Kidsvt8.exe
+H:\Предметы\КиДСВТ\8\Kidsvt8\Kidsvt8\obj\x86\Debug\Kidsvt8.pdb
+H:\Предметы\КиДСВТ\8\Kidsvt8\Kidsvt8\bin\Debug\Kidsvt8.exe
+H:\Предметы\КиДСВТ\8\Kidsvt8\Kidsvt8\bin\Debug\Kidsvt8.pdb
+H:\Предметы\КиДСВТ\8\Kidsvt8\Kidsvt8\obj\x86\Debug\Kidsvt8.csprojResolveAssemblyReference.cache
